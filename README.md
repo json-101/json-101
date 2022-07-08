@@ -10,6 +10,7 @@
 
 ## List of Classes/Assignments I took
 - <a href="https://github.com/json-101/stanford-cs253-assign0" target="_blank" rel="noreferrer">Stanford CS253 Web Security Assignment 0</a>
+- <a href="https://github.com/json-101/stanford-cs253-assign1" target="_blank" rel="noreferrer">Stanford CS253 Web Security Assignment 1</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
