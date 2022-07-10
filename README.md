@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">Cloud Security Engineer at ___</h3>
 
-## Who am I
--
-- 📝 I write articles on Medium
+## Who am I 😊
+- 🔧 Daily problem solver by building security automation. Automate more, work less
+- 💪 Passionate in tech and empowering new grads!
+- 📝 I write articles on Medium (<a href="https://medium.com/@cloudsecurity101" target="_blank">@cloudsecurity101</a>)
 
-## List of Projects I work
-- 
+## List of Projects I work 
+### <a href="https://devpost.com/software/mentorme-1p6fbw" target="_blank">MentorMe</a> [Hackathon Nov'21]
+* a platform where recruiter can find great talents who have been mentored by selected working professionals in our platform.
+  - Prototype made with Squarespace
 
 ## List of Classes/Assignments I took
 - <a href="https://github.com/json-101/stanford-cs253-assign0" target="_blank" rel="noreferrer">Stanford CS253 Web Security Assignment 0</a>
